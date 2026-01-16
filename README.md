@@ -21,7 +21,7 @@ I work at the intersection of product strategy, product design, engineering, and
 - Prefer boring tech where it makes sense
 
 ## Tech I use
-- **Backend:** Node.js, Typescript, Ruby on Rails, PostgreSQL, GraphQL
+- **Backend:** Node.js, Typescript, Python, Ruby on Rails, PostgreSQL, GraphQL
 - **Frontend:** React, TypeScript, Tailwind, Framer Motion
 - **Ecommerce:** Shopify (Custom Themes, Apps, Headless)
 - **AI:** LLM tooling, RAG pipelines (LangChain/LangGraph), Workflow automation (Custom & N8N), Prompt Engineering, Context Engineering
