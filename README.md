@@ -26,7 +26,7 @@ I work at the intersection of product strategy, product design, engineering, and
 - **Ecommerce:** Shopify (Custom Themes, Apps, Headless)
 - **AI:** LLM tooling, RAG pipelines (LangChain/LangGraph), Workflow automation (Custom & N8N), Prompt Engineering, Context Engineering
 
-> Most of my production work is private for obvious reasons.
+> Note: Most of my production work is in private repos for obvious reasons.
 
 ## Currently
 - Building applied AI tooling for ecommerce and operations
