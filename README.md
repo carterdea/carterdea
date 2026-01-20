@@ -1,9 +1,5 @@
 # Carter De Angelis
 
-
-
-#### Scottsdale, AZ
-
 Product-focused engineer building ecommerce and applied AI systems.
 
 I work at the intersection of product strategy, product design, engineering, and business. Helping companies ship software that moves revenue and increases efficiency.
