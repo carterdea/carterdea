@@ -15,7 +15,7 @@ I work at the intersection of product strategy, product design, engineering, and
 - **Backend:** Node.js, Typescript, Python, Ruby on Rails, PostgreSQL, GraphQL
 - **Frontend:** React, TypeScript, Tailwind, Framer Motion
 - **Ecommerce:** Shopify (Custom Themes, Apps, Headless)
-- **AI:** LLM tooling, RAG pipelines (LangChain/LangGraph), Workflow automation (Custom & N8N), Prompt Engineering, Context Engineering
+- **Applied AI:** LLM tooling, RAG pipelines (LangChain/LangGraph), Workflow automation, Prompt Engineering, Context Engineering
 
 > Note: Most of my production work is in private repos for obvious reasons.
 
